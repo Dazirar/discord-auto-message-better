@@ -21,5 +21,3 @@ The script contains a builtin help command. Invoke it as such:
 ```
 % python3 bot.py --help
 ```
-[Made by @nonrice on Github.](https://github.com/nonrice)
-
